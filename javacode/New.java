@@ -4,5 +4,6 @@ public class New{
 	System.out.println("I have coffee");
 	
 	System.out.println("I am Thirsty")
+	System.out.println("I am soda")
 
 }
