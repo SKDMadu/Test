@@ -5,5 +5,6 @@ public class New{
 	
 	System.out.println("I am Thirsty")
 	System.out.println("I am soda")
+	System.out.println("Typpp");
 
 }
